@@ -2,7 +2,7 @@
 
 Simple WPF that shows a list of cat 'facts'.
 
-##Getting started
+## Getting started
 
 If you want to use this WPF app, you can simply fork it.
 
